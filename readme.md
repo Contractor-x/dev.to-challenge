@@ -10,7 +10,7 @@ This repository contains my submission for the **Dev.to June Celebration Challen
 
 ## Getting Started
 
-You can run and edit this project easily with [Visual Studio Code (VS Code)](https://code.visualstudio.com/) on **Linux**, **macOS**, or **Windows**. or view on **[Vercel](https://june-celebrations.vercel.app/)**
+You can run and edit this project easily using [Visual Studio Code (VS Code)](https://code.visualstudio.com/) on **Linux**, **macOS**, or **Windows**. or view on **[Vercel](https://june-celebrations.vercel.app/)**
 
 ### Prerequisites
 
