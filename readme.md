@@ -6,7 +6,7 @@ This repository contains my submission for the **Dev.to June Celebration Challen
 
 - Responsive design with modern CSS
 - Interactive elements powered by JavaScript
-- Easy to run locally on any major Operating 
+- Easy to run locally on any major Operating System
 
 ## Getting Started
 
